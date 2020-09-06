@@ -14392,6 +14392,11 @@
   "RootNamespace": "YourBooksStore",
   "Documents": [
     {
+      "FilePath": "d:\\Dev\\projects\\YourBooksStore\\YourBooksStore\\Pages\\Books\\List.cshtml",
+      "TargetPath": "Pages\\Books\\List.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Dev\\projects\\YourBooksStore\\YourBooksStore\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
