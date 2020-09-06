@@ -1,0 +1,9 @@
+D:\Dev\projects\YourBooksStore\YourBookStore.Core\bin\Debug\netstandard2.0\YourBookStore.Core.deps.json
+D:\Dev\projects\YourBooksStore\YourBookStore.Core\bin\Debug\netstandard2.0\YourBookStore.Core.dll
+D:\Dev\projects\YourBooksStore\YourBookStore.Core\bin\Debug\netstandard2.0\YourBookStore.Core.pdb
+D:\Dev\projects\YourBooksStore\YourBookStore.Core\obj\Debug\netstandard2.0\YourBookStore.Core.csprojAssemblyReference.cache
+D:\Dev\projects\YourBooksStore\YourBookStore.Core\obj\Debug\netstandard2.0\YourBookStore.Core.AssemblyInfoInputs.cache
+D:\Dev\projects\YourBooksStore\YourBookStore.Core\obj\Debug\netstandard2.0\YourBookStore.Core.AssemblyInfo.cs
+D:\Dev\projects\YourBooksStore\YourBookStore.Core\obj\Debug\netstandard2.0\YourBookStore.Core.csproj.CoreCompileInputs.cache
+D:\Dev\projects\YourBooksStore\YourBookStore.Core\obj\Debug\netstandard2.0\YourBookStore.Core.dll
+D:\Dev\projects\YourBooksStore\YourBookStore.Core\obj\Debug\netstandard2.0\YourBookStore.Core.pdb
