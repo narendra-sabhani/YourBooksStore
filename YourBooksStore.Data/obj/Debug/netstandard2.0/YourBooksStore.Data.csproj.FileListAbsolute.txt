@@ -1,0 +1,12 @@
+D:\Dev\projects\YourBooksStore\YourBooksStore.Data\obj\Debug\netstandard2.0\YourBooksStore.Data.csprojAssemblyReference.cache
+D:\Dev\projects\YourBooksStore\YourBooksStore.Data\obj\Debug\netstandard2.0\YourBooksStore.Data.AssemblyInfoInputs.cache
+D:\Dev\projects\YourBooksStore\YourBooksStore.Data\obj\Debug\netstandard2.0\YourBooksStore.Data.AssemblyInfo.cs
+D:\Dev\projects\YourBooksStore\YourBooksStore.Data\obj\Debug\netstandard2.0\YourBooksStore.Data.csproj.CoreCompileInputs.cache
+D:\Dev\projects\YourBooksStore\YourBooksStore.Data\bin\Debug\netstandard2.0\YourBooksStore.Data.deps.json
+D:\Dev\projects\YourBooksStore\YourBooksStore.Data\bin\Debug\netstandard2.0\YourBooksStore.Data.dll
+D:\Dev\projects\YourBooksStore\YourBooksStore.Data\bin\Debug\netstandard2.0\YourBooksStore.Data.pdb
+D:\Dev\projects\YourBooksStore\YourBooksStore.Data\bin\Debug\netstandard2.0\YourBookStore.Core.dll
+D:\Dev\projects\YourBooksStore\YourBooksStore.Data\bin\Debug\netstandard2.0\YourBookStore.Core.pdb
+D:\Dev\projects\YourBooksStore\YourBooksStore.Data\obj\Debug\netstandard2.0\YourBooksStore.Data.csproj.CopyComplete
+D:\Dev\projects\YourBooksStore\YourBooksStore.Data\obj\Debug\netstandard2.0\YourBooksStore.Data.dll
+D:\Dev\projects\YourBooksStore\YourBooksStore.Data\obj\Debug\netstandard2.0\YourBooksStore.Data.pdb

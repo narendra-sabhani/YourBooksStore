@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zx0Wycq0r3EViPJtq7iEPXYXhLP6OQdSgtYJQhASA2d+Ed3JDrf8Pm/Ku81vBahnpx6H/YDV/Jafxj00NB7zNw==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\projects\\YourBooksStore\\YourBooksStore.Data\\YourBooksStore.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\naren\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\naren\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
