@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YourBooksStore", "YourBooks
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YourBookStore.Core", "YourBookStore.Core\YourBookStore.Core.csproj", "{6533AEF8-5A5C-48E4-AF9C-A742CEC970B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YourBooksStore.Data", "YourBooksStore.Data\YourBooksStore.Data.csproj", "{4CD98DCE-4000-408E-A00A-B371D6E1C3EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{6533AEF8-5A5C-48E4-AF9C-A742CEC970B7}.Release|x64.Build.0 = Release|Any CPU
 		{6533AEF8-5A5C-48E4-AF9C-A742CEC970B7}.Release|x86.ActiveCfg = Release|Any CPU
 		{6533AEF8-5A5C-48E4-AF9C-A742CEC970B7}.Release|x86.Build.0 = Release|Any CPU
+		{4CD98DCE-4000-408E-A00A-B371D6E1C3EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD98DCE-4000-408E-A00A-B371D6E1C3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD98DCE-4000-408E-A00A-B371D6E1C3EF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4CD98DCE-4000-408E-A00A-B371D6E1C3EF}.Debug|x64.Build.0 = Debug|Any CPU
+		{4CD98DCE-4000-408E-A00A-B371D6E1C3EF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4CD98DCE-4000-408E-A00A-B371D6E1C3EF}.Debug|x86.Build.0 = Debug|Any CPU
+		{4CD98DCE-4000-408E-A00A-B371D6E1C3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD98DCE-4000-408E-A00A-B371D6E1C3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CD98DCE-4000-408E-A00A-B371D6E1C3EF}.Release|x64.ActiveCfg = Release|Any CPU
+		{4CD98DCE-4000-408E-A00A-B371D6E1C3EF}.Release|x64.Build.0 = Release|Any CPU
+		{4CD98DCE-4000-408E-A00A-B371D6E1C3EF}.Release|x86.ActiveCfg = Release|Any CPU
+		{4CD98DCE-4000-408E-A00A-B371D6E1C3EF}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

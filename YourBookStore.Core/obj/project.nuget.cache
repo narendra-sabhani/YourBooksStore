@@ -1,23 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "nOG6bjEEKIDzJ+9PzXd1ZGPyVczUttDyyER8i1A2Xdevck3G0xNlZEYztrDn/w9mr3iaYdeDwTMUbCbc01laqQ==",
+  "dgSpecHash": "SdR2oEel0qxDMfOPeuKe2fb2bFLC3KBSn+ibMs4K93B7vdLDlWO1z7fjM7rAU2+XwKLuyVf8qtdPSsZ7B/6yBA==",
   "success": true,
   "projectFilePath": "D:\\Dev\\projects\\YourBooksStore\\YourBookStore.Core\\YourBookStore.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\naren\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\naren\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.design\\3.1.4\\microsoft.visualstudio.web.codegeneration.design.3.1.4.nupkg.sha512",
     "C:\\Users\\naren\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.VisualStudio.Web.CodeGeneration.Design 3.1.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
-      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Design",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0"
-      ]
-    }
-  ]
+  "logs": []
 }

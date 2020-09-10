@@ -38,10 +38,6 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[*, )"
-            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",

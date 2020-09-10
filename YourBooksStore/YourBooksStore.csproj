@@ -8,4 +8,9 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\YourBooksStore.Data\YourBooksStore.Data.csproj" />
+    <ProjectReference Include="..\YourBookStore.Core\YourBookStore.Core.csproj" />
+  </ItemGroup>
+
 </Project>

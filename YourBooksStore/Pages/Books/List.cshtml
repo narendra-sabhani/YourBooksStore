@@ -4,5 +4,16 @@
     ViewData["Title"] = "List";
 }
 
-<h1>List</h1>
+<h1>Books</h1>
+<table class="table">
+    @foreach (var book in Model.Books)
+    {
+        <tr>
+            <td>@book.ISN</td>
+            <td>@book.Title</td>
+            <td>@book.Author</td>
+            <td>@book.Category</td>            
 
+        </tr>
+    }
+</table>
