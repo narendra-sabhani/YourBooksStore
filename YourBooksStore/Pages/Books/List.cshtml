@@ -5,7 +5,30 @@
 }
 
 <h1>Books</h1>
-<table class="table">
+
+<form method="GET">
+   <div class="form-group">
+        <div class="input-group">
+            <input type="search" class="form-control" value="" />
+            <span class="input-group-append">
+                <button class="btn btn-primary">
+                    <i class="fas fa-search"></i>
+                </button>
+            </span>
+        </div>
+    </div>
+</form>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ISN</th>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Category</th>
+        </tr>
+    </thead>
+    <tbody>
     @foreach (var book in Model.Books)
     {
         <tr>
@@ -16,4 +39,5 @@
 
         </tr>
     }
+    </tbody>
 </table>
