@@ -4,7 +4,7 @@ using YourBooksStore.Core;
 
 namespace YourBooksStore.Data {
     public interface IBookData {
-        IEnumerable<Book> GetAll ();
+        IEnumerable<Book> GetAllBooksByName (string name);
     }
     public class InMemoryBookData : IBookData {
         readonly List<Book> books;
@@ -17,11 +17,9 @@ namespace YourBooksStore.Data {
             };
         }
 
-        public IEnumerable<Book> GetAll () {
-            return from b in books
-            orderby b.Title
-            select b;
-
+        public IEnumerable<Book> GetAllBooksByName (string name = null) {
+            var result = books.Where(x => string.IsNullOrEmpty(name) || x.Title.Contains(name));
+            return result;
         }
     }
 }
