@@ -1,0 +1,4 @@
+
+obj/
+YourBooksStore/obj/Debug/netcoreapp3.1/YourBooksStore.csprojAssemblyReference.cache
+YourBooksStore.Data/obj/Debug/netstandard2.0/YourBooksStore.Data.csprojAssemblyReference.cache
