@@ -5,3 +5,6 @@ YourBooksStore/obj/Debug/netcoreapp3.1/YourBooksStore.csprojAssemblyReference.ca
 YourBooksStore.Data/obj/Debug/netstandard2.0/YourBooksStore.Data.csprojAssemblyReference.cache
 YourBooksStore/obj/Debug/netcoreapp3.1/YourBooksStore.Views.pdb
 
+YourBooksStore.Data/obj/Debug/netstandard2.0/YourBooksStore.Data.csprojAssemblyReference.cache
+YourBookStore.Core/obj/Debug/netstandard2.0/YourBookStore.Core.csprojAssemblyReference.cache
+YourBooksStore/obj/Debug/netcoreapp3.1/YourBooksStore.csprojAssemblyReference.cache

@@ -14427,6 +14427,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Dev\\projects\\YourBooksStore\\YourBooksStore\\Pages\\Books\\NotFound.cshtml",
+      "TargetPath": "Pages\\Books\\NotFound.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Dev\\projects\\YourBooksStore\\YourBooksStore\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"

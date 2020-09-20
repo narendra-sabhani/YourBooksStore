@@ -1,4 +1,4 @@
-@page
+@page "{isn:int}"
 @model YourBooksStore.Pages.Books.DetailModel
 @{
     ViewData["Title"] = "Detail";
@@ -9,16 +9,26 @@
 <section class="detail">
     <div class="container">
         <div class="row">
-            <div class="col-1">ISN:</div>
-            <div class="col-1">@Model.Book.ISN</div>
+            <div class="col-md-1 col-sm-12">ISN:</div>
+            <div class="col-md-3 col-sm-12">@Model.Book.ISN</div>
         </div>
         <div class="row">
-            <div class="col-1">Author:</div> 
-            <div class="col-1">@Model.Book.Author</div>
+            <div class="col-md-1 col-sm-12">Author:</div> 
+            <div class="col-md-3 col-sm-12">@Model.Book.Author</div>
         </div>
         <div class="row">
-            <div class="col-1">Price:</div> 
-            <div class="col-1">@Model.Book.Price</div>
+            <div class="col-md-1 col-sm-12">Price:</div> 
+            <div class="col-md-3 col-sm-12">@Model.Book.Price</div>
+        </div>
+        <div class="row">
+            <div class="col-md-1 col-sm-12">Category:</div> 
+            <div class="col-md-3 col-sm-12">@Model.Book.Category</div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col">
+                <a asp-page="./List" class="btn btn-primary">All Books</a>
+            </div>
         </div>
     </div>
 </section>

@@ -5,6 +5,7 @@ using YourBooksStore.Core;
 namespace YourBooksStore.Data {
     public interface IBookData {
         IEnumerable<Book> GetAllBooksByName (string name);
+        Book GetByISN (int isn);
     }
     public class InMemoryBookData : IBookData {
         readonly List<Book> books;
@@ -18,7 +19,13 @@ namespace YourBooksStore.Data {
         }
 
         public IEnumerable<Book> GetAllBooksByName (string name = null) {
-            var result = books.Where(x => string.IsNullOrEmpty(name) || x.Title.Contains(name));
+            var result = books.Where (x => string.IsNullOrEmpty (name) || x.Title.Contains (name));
+            return result;
+        }
+
+        public Book GetByISN(int isn)
+        {
+            var result = books.SingleOrDefault(b => b.ISN == isn);
             return result;
         }
     }

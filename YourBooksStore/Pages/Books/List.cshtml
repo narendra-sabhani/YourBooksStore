@@ -26,6 +26,7 @@
             <th>Title</th>
             <th>Author</th>
             <th>Category</th>
+            <th>Action</th>
         </tr>
     </thead>
     <tbody>
@@ -36,7 +37,19 @@
             <td>@book.Title</td>
             <td>@book.Author</td>
             <td>@book.Category</td>            
-
+            <td>
+                <span>
+                    <a asp-page="./Detail" asp-route-isn="@book.ISN">
+                    <i class="fa fa-info-circle btn btn-primary btn-sm" aria-hidden="true"></i>
+                    </a>
+                </span>
+                 <span>
+                    <i class="fa fa-edit btn btn-primary btn-sm" aria-hidden="true"></i>
+                </span>
+                <span>
+                    <i class="fa fa-trash btn btn-primary btn-sm" aria-hidden="true"></i>
+                </span>
+            </td>
         </tr>
     }
     </tbody>
