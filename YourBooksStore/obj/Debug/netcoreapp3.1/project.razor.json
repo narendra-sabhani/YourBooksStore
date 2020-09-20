@@ -14412,6 +14412,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Dev\\projects\\YourBooksStore\\YourBooksStore\\Pages\\Books\\Detail.cshtml",
+      "TargetPath": "Pages\\Books\\Detail.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Dev\\projects\\YourBooksStore\\YourBooksStore\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"

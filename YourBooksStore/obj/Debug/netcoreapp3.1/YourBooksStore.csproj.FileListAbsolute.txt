@@ -113,3 +113,4 @@ D:\Dev\projects\YourBooksStore\YourBooksStore\bin\Debug\netcoreapp3.1\YourBooksS
 D:\Dev\projects\YourBooksStore\YourBooksStore\bin\Debug\netcoreapp3.1\YourBookStore.Core.dll
 D:\Dev\projects\YourBooksStore\YourBooksStore\bin\Debug\netcoreapp3.1\YourBooksStore.Data.pdb
 D:\Dev\projects\YourBooksStore\YourBooksStore\bin\Debug\netcoreapp3.1\YourBookStore.Core.pdb
+D:\Dev\projects\YourBooksStore\YourBooksStore\obj\Debug\netcoreapp3.1\Razor\Pages\Books\Detail.cshtml.g.cs
