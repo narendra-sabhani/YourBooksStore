@@ -14,16 +14,16 @@ namespace YourBooksStore.Pages.Books {
         IBookData BookData { get; }
         public IEnumerable<Book> Books { get; set; }
 
-       [BindProperty(SupportsGet=true)]
-       public string SearchTerm { get; set; }
+        [BindProperty (SupportsGet = true)]
+        public string SearchTerm { get; set; }
         public ListModel (IConfiguration configuration, IBookData bookData) {
             this.BookData = bookData;
             this.Configuration = configuration;
 
         }
         public void OnGet () {
-           
-            Books = BookData.GetAllBooksByName(SearchTerm);
+
+            Books = BookData.GetAllBooksByName (SearchTerm);
         }
     }
 }

@@ -44,7 +44,9 @@
                     </a>
                 </span>
                  <span>
+                     <a asp-page="./Edit" asp-route-isn="@book.ISN">
                     <i class="fa fa-edit btn btn-primary btn-sm" aria-hidden="true"></i>
+                    </a>
                 </span>
                 <span>
                     <i class="fa fa-trash btn btn-primary btn-sm" aria-hidden="true"></i>
@@ -54,3 +56,5 @@
     }
     </tbody>
 </table>
+
+<a class="btn btn-primary" asp-page="./Edit">Add New Book</a>

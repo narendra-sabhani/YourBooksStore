@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "l3wGvO7QLa6QzJHLmPSt8CgeCsN94L16B5tM5xJJ2gsALQwMxWzMXNsj31bR1Gr6Tlrv8YDcWR/db5xXd8n10g==",
+  "dgSpecHash": "ex/TOfu4yK8g21mt0uoSsrSSxYIDHID7sZBsbEnaOYHqt0xgp6KBzfn0bcNUbrVeTmyrQOaIZzrrddNmM8jaAw==",
   "success": true,
   "projectFilePath": "D:\\Dev\\projects\\YourBooksStore\\YourBooksStore.Data\\YourBooksStore.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\naren\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\naren\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\naren\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\naren\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
