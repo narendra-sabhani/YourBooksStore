@@ -11,7 +11,7 @@
         <div class="input-group">
             <input type="search" class="form-control" asp-for="SearchTerm"/>
             <span class="input-group-append">
-                <button class="btn btn-primary">
+                <button class="btn btn-common">
                     <i class="fas fa-search"></i>
                 </button>
             </span>
@@ -38,18 +38,18 @@
             <td>@book.Author</td>
             <td>@book.Category</td>            
             <td>
-                <span>
+                <span class="mx-2">
                     <a asp-page="./Detail" asp-route-isn="@book.ISN">
-                    <i class="fa fa-info-circle btn btn-primary btn-sm" aria-hidden="true"></i>
+                    <i class="fa fa-info-circle btn btn-common btn-sm" aria-hidden="true"></i>
                     </a>
                 </span>
-                 <span>
+                <span class="mx-2">
                      <a asp-page="./Edit" asp-route-isn="@book.ISN">
-                    <i class="fa fa-edit btn btn-primary btn-sm" aria-hidden="true"></i>
+                    <i class="fa fa-edit btn btn-common btn-sm" aria-hidden="true"></i>
                     </a>
                 </span>
-                <span>
-                    <i class="fa fa-trash btn btn-primary btn-sm" aria-hidden="true"></i>
+                <span class="mx-2">
+                    <i class="fa fa-trash btn btn-common btn-sm" aria-hidden="true"></i>
                 </span>
             </td>
         </tr>
@@ -57,4 +57,4 @@
     </tbody>
 </table>
 
-<a class="btn btn-primary" asp-page="./Edit">Add New Book</a>
+<a class="btn btn-common" asp-page="./Edit">Add New Book</a>
